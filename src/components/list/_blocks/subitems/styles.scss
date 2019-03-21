@@ -1,0 +1,17 @@
+.subitems {
+    display: inline-block;
+    width: 333px;
+    &__text {
+      display: inline-block;
+      line-height: 35px;
+      margin-right: 44px;
+    }
+}
+.subitems-blocks {
+  border-bottom: 5px solid lightgray;
+  &__text {
+    display: inline-block;
+    line-height: 35px;
+    margin-right: 44px;
+  }
+}

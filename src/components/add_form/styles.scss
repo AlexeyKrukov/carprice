@@ -1,0 +1,25 @@
+.addForm {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+  padding: 10px;
+  margin-bottom: 30px;
+  input {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  p {
+    font-weight: bold;
+  }
+  span {
+    color: #009b9b;
+    font-weight: bold;
+  }
+  button {
+    background-color: #009b9b;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+  }
+}
